@@ -1,0 +1,8 @@
+openapi: "3.0.0"
+info:
+  title: "Auth API"
+  description: "learning authentication"
+  version: "1.0.0"
+servers:
+  - url: "http://localhost:3000/"
+    description: "Main server"
